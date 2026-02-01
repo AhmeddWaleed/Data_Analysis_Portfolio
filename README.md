@@ -1,6 +1,19 @@
 # Ahmed-s_Portfolio
 
-## [Project 1: Customer-Shopping-Latest-Trends (Python & Power BI):](https://github.com/AhmeddWaleed/Customer-Shopping-Latest-Trends)
+
+## [Project 1: Business-Transaction (Excel & Tableau):](https://github.com/AhmeddWaleed/Business-Transaction)
+
+ * This project analyzes E-commerce business transaction data using Excel to extract meaningful business insights related to sales performance, and profitability.
+The objective is to demonstrate the use of data analysis to support strategic business decisions through the data.
+
+ * Project Objective
+- Evaluate overall business performance through sales and revenue metrics.
+- Identify top-performing products and regions.
+- Analyze sales trends over time to detect growth.
+- What are the monthly and regional sales trends?
+
+
+## [Project 2: Customer-Shopping-Latest-Trends (Python & Power BI):](https://github.com/AhmeddWaleed/Customer-Shopping-Latest-Trends)
 
  * This project analyzes this data to uncover insights on customer behaviour, sales trends, product performance, and regional profitability.
   It aims to help businesses make data-driven decisions by understanding which products and regions drive the most sales.
@@ -13,7 +26,7 @@
  * Dataset:
      Source: Kaggle – Customer Shopping (Latest Trends) Dataset.
 
-## [Project 2: Vehicle-Sales (MySQL & Power BI):](https://github.com/AhmeddWaleed/Vehicle-Sales)
+## [Project 3: Vehicle-Sales (MySQL & Power BI):](https://github.com/AhmeddWaleed/Vehicle-Sales)
 
  * This project analyzes car sales data using SQL to uncover valuable business insights.
    The goal is to explore trends in car prices, total sales, and market performance — helping car dealerships
@@ -28,7 +41,7 @@
 * Dataset:
     Source: Kaggle – Vehicle Sales Data.
 
-## [Project 3: E-commerce-Business-Transaction (PostgreSQL & Tableau):](https://github.com/AhmeddWaleed/E-commerce-Business-Transaction)
+## [Project 4: E-commerce-Business-Transaction (PostgreSQL & Tableau):](https://github.com/AhmeddWaleed/E-commerce-Business-Transaction)
 
  * This project analyzes E-commerce business transaction data using SQL to extract meaningful business insights related to
    sales performance, and profitability. The objective is to demonstrate the use of data analysis and SQL querying to
@@ -43,7 +56,7 @@
  * Dataset:
      Source: Kaggle – E-commerce Business Transaction Dataset.
 
-## [Project 4: Real-Estate-Sales (MySQL & Tableau):](https://github.com/AhmeddWaleed/Real-Estate-Sales)
+## [Project 5: Real-Estate-Sales (MySQL & Tableau):](https://github.com/AhmeddWaleed/Real-Estate-Sales)
 
  * This project analyzes real estate data to uncover insights about property prices, sales trends, and market performance.
    Using SQL, I cleaned, transformed, and queried the dataset to answer key business questions. It aims to help businesses
@@ -57,15 +70,13 @@
  * Dataset:
      Source: DATA.GOV – Real Estate Sales 2001-2023 GL Dataset.
 
-## [Project 5: Customer-Shopping-Trends (PostgreSQL & Power BI):](https://github.com/AhmeddWaleed/Customer-Shopping-Trends)
+   ## [Project 6: Supermart-Sales (Excel):](https://github.com/AhmeddWaleed/Supermart-Sales)
 
- * This project analyzes this data to uncover insights on customer behaviour, sales trends, product performance, and regional profitability.
-    It aims to help businesses make data-driven decisions by understanding which products and regions drive the most sales.
+ * This project analyzes this data to uncover insights on sales trends, product performance, and regional profitability.  
+  It aims to help businesses make data-driven decisions by understanding which products and regions drive the most sales.
 
- * Project Objective:
-    1. Identify top-performing and underperforming products.
-    2. Analyze regional sales trends.
-    3. Analyze consumer purchasing patterns over time.
+  * Project Objective
+- Identify top-performing and underperforming products.
+- Analyze regional sales trends.
+- Analyze consumer purchasing patterns over time.
 
- * Dataset:
-     Source: Kaggle – Customer Shopping (Latest Trends) Dataset.
